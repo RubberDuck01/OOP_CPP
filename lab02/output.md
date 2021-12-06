@@ -13,7 +13,7 @@ Average: 3
 Max: 5
 ```
 ### zad03
-Not possible with ref.\
+Not possible with ref.
 ### zad04
 ```
 Death Race (2008), 1h51m
@@ -22,10 +22,9 @@ Death Race (2008), 1h51m
 ```
 Jobs (2013), 2h10m
 ```
-##### Note:
-*(Note to self): kad se treba compile header i cc:*\
-g++ main.cc otherFile.hh otherFile.cc -o progName\
 ##### Additional notes
+*(Note to self): kad se treba compile header i cc:*\
+g++ main.cc otherFile.hh otherFile.cc -o progName
 ##### About...
 > KDevelop 5.6.2\
 > GCC 11.1.0
