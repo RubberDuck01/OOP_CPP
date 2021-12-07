@@ -24,7 +24,7 @@ Jobs (2013), 2h10m
 ```
 ##### Additional notes
 *(Note to self): kad se treba compile header i cc:*\
-'''g++ main.cc otherFile.hh otherFile.cc -o progName'''
+```g++ main.cc otherFile.hh otherFile.cc -o progName```
 ##### About...
 > KDevelop 5.6.2\
 > GCC 11.1.0
