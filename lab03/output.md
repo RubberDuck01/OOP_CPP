@@ -27,7 +27,7 @@ Re: 5.5, Im: 2.7
 5.5 + 2.7
 ```
 ##### Note
-Malo mi sumnjikavo radi... ali radi!\
+Malo mi sumnjikavo radi... ali radi!
 ### zad04
 Isti output kao i zad03; ista razlika kao i zad01 i zad02.
 ##### Additional notes
