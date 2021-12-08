@@ -33,6 +33,7 @@ Villager (25, 3, 0.8)
 ```
 ##### Additional notes
 Doslovno ista stvar kao i lab05\
+\
 *Da se compila ovo sa #pragma once:*
 ```
 g++ main.cc Villager.cc TownCenter.cc Outpost.cc -o lab06
