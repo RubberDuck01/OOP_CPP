@@ -4,7 +4,7 @@ Moja rjesenja labosa iz OOP-a
 ## Notes
 
 - **lab_hwX**\
-tu zadatci iz zadace koja nosi additional poene na predmetu\
+tu su zadatci iz zadace koja nosi additional poene na predmetu\
 (*'X'* oznacava koja konkretno zadaca; za sad ih je 3)
 
 - **lab04:**\
