@@ -1,4 +1,4 @@
-// Linux distributions
+// GNU/Linux distributions
 
 #include <string>
 
@@ -6,8 +6,7 @@ class Distro {
 public:
     Distro();
     Distro(std::string name);
-    Distro(std::string name, std::string ver);
-    Distro(double rating);
+    Distro(std::string name, std::string ver, double rating);
 
     void info();
     void support(std::string name); // supporta (prati) odabrani distro
