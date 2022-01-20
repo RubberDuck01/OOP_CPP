@@ -32,6 +32,7 @@ void Distro::rateIt() {
     if (rating < 1 && rating > 5) {
         std::cout << "Kriva vrijednost! Raspon ocjena je 1 - 5!\n";
     } else {
+        Distro::setRating(rating);
         std::cout << "Ocjena zabiljezena!\n";
     }
 }
