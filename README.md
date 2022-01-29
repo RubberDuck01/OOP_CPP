@@ -11,6 +11,9 @@ tu su zadatci iz zadace koja nosi additional poene na predmetu\
 u direktoriju lab04 se nalazi jos 3 direktorija koji sadrze sve bitne fileove (.hh i .cc).\
 Preglednije je te zbog toga sad commitam na taj nacin.
 
+- **lab07, lab08, lab09**\
+lab07 ne postoji, lab08 je zapravo ponavljanje za kolokvij, a lab09 je *merged* u lab10 (static + nasljedjivanje)
+
 
 **Ako se u direktoriju nalazi samo *main.cc*, to znaci da svi fileovi zajedno cine jedne labose.\
 Ne nuzno da je jedan zadatak u pitanju vec se zad medjusobno nadovezuju jedan na drugi te je blesavo copy-paste jedno te isto.**
