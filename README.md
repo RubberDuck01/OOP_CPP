@@ -3,6 +3,9 @@ Moja rjesenja labosa iz OOP-a
 
 ## Notes
 
+- **lab14**\
+lab14 je basically testni kolokvij 2 (ponavljanje)
+
 - **lab_hwX**\
 tu su zadatci iz zadace koja nosi additional poene na predmetu\
 (*'X'* oznacava koja konkretno zadaca; za sad ih je 3)
